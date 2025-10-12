@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: docker.io/rashiyamani/myapp:4.0   # ← Update this
+        image: docker.io/rashiyamani/myapp:5.0   # ← Update this
         ports:
         - containerPort: 3000
 
